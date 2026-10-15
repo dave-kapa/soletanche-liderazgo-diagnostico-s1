@@ -1031,6 +1031,45 @@
   color: var(--color-slate-medium);
 }
 
+.trace-id-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  min-width: 68px;
+}
+
+.trace-source-sub {
+  font-size: 10px;
+  color: var(--color-slate-medium);
+  text-align: center;
+}
+
+.trace-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.trace-anchor-tag {
+  font-size: 11px;
+  background: rgba(0, 0, 0, 0.06);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: monospace;
+  color: var(--color-slate-medium);
+  margin-right: 8px;
+}
+
+.trace-theme-tag {
+  font-weight: 600;
+  color: var(--color-blue-primary);
+  font-size: 12px;
+}
+
 /* ============================================================
    10. FOOTER & EXPORT CONTROLS
 ============================================================ */
