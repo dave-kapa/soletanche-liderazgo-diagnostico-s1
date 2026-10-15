@@ -1,440 +1,384 @@
-# Diagnóstico sistémico de la sesión 1
+# Soletanche · Diagnóstico sistémico de la sesión 1
 
-## Desarrollo de capacidades para mejorar la seguridad desde el liderazgo adaptativo
+**Desarrollo de capacidades para mejorar la seguridad**  
+14 de octubre de 2026 · 8:00–12:00 · 34 gerentes medios · Primera de cuatro sesiones  
+**Versión 3 — reconstruida desde la bitácora íntegra y enriquecida mediante la comparación de informes.** Diagnóstico exploratorio, sujeto a contraste; no es una investigación de accidentes.
 
-**Organización:** Soletanche  
-**Fecha y horario:** 14 de octubre de 2026, 8:00 a. m.–12:00 m.  
-**Participantes:** 34 personas de gerencia media de producción, Gestión Humana, HSE y áreas técnicas, entre otras  
-**Proceso:** primera de cuatro sesiones  
-**Foco de la sesión:** observar antes de interpretar e intervenir  
-**Versión:** documento de trabajo provisional posterior a la sesión 1; pendiente de cotejo con la bitácora íntegra y el análisis de la conversación original
+## Resumen ejecutivo
 
-> **Cobertura de la fuente.** La recuperación disponible de la bitácora se corta después de la devolución de la segunda pecera, en «Y se les…». Este documento organiza únicamente el tramo recuperado. Su inventario no acredita cobertura exhaustiva de la jornada; la jerarquización por repetición también es provisional. El análisis posterior de la conversación original aún no ha podido leerse y no se ha integrado.
+### 1. Hallazgo central
 
-> **Alcance y cautela.** Este documento organiza la bitácora de la sesión y formula hipótesis de trabajo; no es una investigación de incidentes ni demuestra causas de la accidentalidad. La mención de un crecimiento paralelo de ventas y accidentes es un dato reportado en el encuadre, no una relación causal verificada. Las percepciones sobre proyectos, áreas, subcontratistas, momentos críticos y comportamientos requieren contraste con datos operativos y con otras voces de la organización.
+Soletanche parece tener una brecha entre **lo que se sabe que debe hacerse, lo que se hace y la capacidad colectiva para sostener el cambio**.
 
-### Clave de lectura
+Durante la sesión se mencionaron procedimientos, capacitaciones, investigaciones de accidentes y estándares, junto con dificultades para convertir esos recursos en prácticas consistentes, aprendizajes duraderos y coordinación entre áreas.
 
-- **[P] Participantes:** afirmaciones, percepciones o citas expresadas por integrantes del grupo.
-- **[O] Observación original:** registro descriptivo del observador/cofacilitador.
-- **[HU] Hipótesis o interpretación original:** lectura formulada por el observador/cofacilitador.
-- **[E] Encuadre o intervención de facilitación:** conceptos, preguntas o consignas utilizados durante la sesión.
-- **[HA] Hipótesis añadida en este análisis:** interpretación nueva, explícitamente provisional.
+El observador también identifica una diferencia entre reconocer problemas y profundizar en ellos, confrontar perspectivas y concretar acciones propias. La oportunidad no sería solamente incorporar herramientas, sino comprender qué dificulta aplicarlas y sostenerlas.
 
-La frecuencia se usa para jerarquizar, no para equiparar repetición con verdad. **Alta** indica aparición reiterada en distintos momentos; **media**, varias apariciones o conexiones; **puntual**, una o pocas menciones que se conservan por trazabilidad.
+**Este es el hallazgo articulador del diagnóstico, no una causa demostrada de los accidentes.**
 
----
+### 2. Los seis patrones más relevantes
 
-# Resumen ejecutivo
+#### 1. Cumplir no siempre significa lograr el propósito
 
-La sesión hizo visible un sistema en el que la seguridad parece competir, en la práctica, con la presión operativa, el volumen de tareas y el cumplimiento de indicadores. El grupo describió abundancia de procedimientos y actividades de SST, pero también una brecha persistente entre **documentar, comunicar o cumplir** y **comprender, interiorizar y actuar**. Este es el núcleo más repetido del diagnóstico. No permite afirmar por sí solo por qué ocurren accidentes; sí señala dónde conviene profundizar.
+Se reportan actividades ejecutadas o documentadas sin comprobar necesariamente su efecto. El plan padrino lo ilustra: asignar y firmar el acompañamiento no asegura, según lo expresado, que se haya verificado el aprendizaje.
 
-El segundo núcleo es la **debilidad del ciclo de aprendizaje**: los accidentes se investigan y las lecciones se envían, pero no siempre se verifica su recepción, comprensión, incorporación o transferencia entre proyectos. La rotación, la multiplicidad de canales, los cambios aplicados por proyecto y las decisiones “en caliente” pueden contribuir a que el aprendizaje no perdure. La afirmación de que los accidentes “vuelven a suceder” es una percepción del grupo que debe contrastarse con evidencia.
+*Recurrencia: alta.*
 
-Un tercer núcleo reúne **miedo, cuidado de la imagen, culpa y responsabilidad**. Durante las conversaciones apareció un patrón observado: el grupo puede reconocer fallas propias y formular autocrítica, pero, cuando aumenta la tensión, tiende a trasladar el problema hacia afuera, defender lo ya hecho o regresar a explicaciones de proceso. La interacción fue ordenada y cortés, aunque algunas personas no hablaron y hubo cautela para discrepar. La cortesía, por tanto, no demuestra seguridad psicológica; puede coexistir con silencios relevantes.
+#### 2. La separación entre áreas dificulta una responsabilidad compartida
 
-También emergieron problemas de **coordinación sistémica**: planeaciones de producción y HSE que no siempre conversan, integración tardía o insuficiente de HSE en el ciclo, cambios locales que no se vuelven estándares de compañía, participación desigual y diferencias entre los estándares propios y los de subcontratistas. Los inicios y cierres de obra fueron señalados como momentos críticos, y la capa administrativa —aproximadamente 200 personas, según la bitácora— fue percibida como menos cubierta por la política de SST.
+Producción y HSE reconocen distancia; aparecen planeaciones y prioridades distintas. La responsabilidad colectiva se enuncia, pero cuesta concretarla en decisiones conjuntas. Se describen conversaciones más productivas dentro de los equipos que entre ellos.
 
-El grupo mostró activos importantes: capacidad conceptual sobre liderazgo, disposición inicial a reconocer responsabilidad, habilidad para observar sin juzgar cuando la consigna es clara, escucha, participación creciente y conciencia de que los cambios culturales requieren continuidad. El reto no parece ser solamente “saber más”, pues ya han recibido talleres y manejan el lenguaje; es convertir observación y autocrítica en **diagnóstico más profundo, corresponsabilidad, experimentos concretos y seguimiento**.
+*Recurrencia: alta.*
 
-Para las sesiones 2–4 se recomienda trabajar sobre pocos desafíos verificables: (1) la brecha entre cumplimiento e interiorización; (2) el circuito de aprendizaje de incidentes y casi incidentes; (3) la conversación entre producción, HSE y proyectos; y (4) las condiciones para hablar, disentir y detener una tarea insegura. Las intervenciones deben combinar componentes técnicos y adaptativos, probarse a pequeña escala y medirse con indicadores preventivos. La meta inmediata no es prometer una reducción causal de accidentes en tres sesiones, sino mejorar capacidades y condiciones observables que favorecen la prevención.
+#### 3. El miedo y el conflicto sin resolución podrían limitar el aprendizaje colectivo
 
----
+Se relatan temor, exclusión y reproches, pero también conflictos que sí se abren y quedan en quién tiene razón. Una participante rechaza la lectura de miedo. La pregunta no es solo si se habla, sino ante quién, sobre qué y con qué resultado.
 
-# 1. Contexto y propósito
+*Recurrencia: alta, con perspectivas discrepantes.*
 
-Soletanche fue presentada como una empresa líder del sector construcción, en crecimiento y con estándares altos de calidad y seguridad. El proceso surge ante problemas de SST y, en particular, accidentes ocurridos durante el año. En la bitácora se consigna que los accidentes y las ventas aumentaron en números casi paralelos; esta coincidencia debe tratarse como una **señal para investigar**, no como prueba de asociación o causalidad.
+#### 4. Reconocer los problemas no basta para movilizar acciones sostenidas
 
-El proceso consta de cuatro sesiones de liderazgo adaptativo, pero su encuadre deseado no es el de “otro entrenamiento en liderazgo”. Busca desarrollar capacidades para mejorar la seguridad desde el factor humano y la movilización cultural. La sesión 1 se concentró en el primer momento del ciclo **observar–interpretar–intervenir** y en poner los problemas sobre la mesa.
+Aparecen autocrítica y propuestas, junto con quejas y dificultades para concretar el siguiente paso propio. El observador interpreta momentos de desplazamiento de responsabilidad y defensa de lo realizado. Esto no equivale a afirmar que nadie actúe.
 
-La jornada reunió a 34 gerentes medios de áreas diversas. Antes del inicio se observaron señales ambiguas de disposición: a las 7:56 había llegado menos de la mitad; a las 8:05 había llegado aproximadamente el 60 %, aunque solo la mitad estaba dentro y el resto permanecía en la estación de café. Había interacción y familiaridad parcial entre personas que parecían conocerse, aunque no todas trabajaban juntas cotidianamente. La lectura inicial de posible desinterés o resistencia fue una apreciación del observador, no una declaración del grupo.
+*Recurrencia: alta.*
 
-El encuadre metodológico presentó los problemas complejos como recorridos no lineales y señaló el riesgo de saltar prematuramente a soluciones. Las cifras “98 %” y “90 %” utilizadas durante la facilitación pertenecen al encuadre de la sesión; no se presentan aquí como estadísticas verificadas.
+#### 5. El aprendizaje no siempre completa su recorrido hasta la práctica
 
----
+Se investigan accidentes, se difunden lecciones y se realizan formaciones, pero se cuestiona cuánto se recibe, comprende, aplica y conserva. Rotación, saturación de canales y dificultades para enseñar a otros forman parte del problema reportado.
 
-# 2. Diagnóstico prioritario
+*Recurrencia: alta.*
 
-| Prioridad | Hallazgo consolidado | Repetición | Evidencia de la sesión | Pregunta que queda abierta |
-|---|---|---:|---|---|
-| 1 | **Brecha entre procedimiento y práctica** | Alta | [P] Procedimientos que se quedan en documentos; cumplimiento “porque toca”; formaciones no estandarizadas; programas intermitentes. | ¿En qué puntos exactos se rompe la traducción entre estándar, comprensión, decisión y conducta? |
-| 2 | **La operación desplaza a SST** | Alta | [P] Presión por indicadores, aplazamiento de capacitaciones, “tenemos tanto por hacer… que dejamos de lado lo prioritario”, números por encima de personas. | ¿Qué decisiones, incentivos y rutinas hacen que SST pierda prioridad en la práctica? |
-| 3 | **Aprendizaje que no cierra el ciclo** | Alta | [P] Los accidentes se investigan pero se repetirían; lecciones enviadas sin asegurar recepción, comprensión e interiorización; rotación y canales múltiples. | ¿Cómo viaja hoy una lección desde el evento hasta el cambio verificable de una práctica? |
-| 4 | **Responsabilidad que oscila hacia culpa o externalización** | Alta | [O/HU] Inicio autocrítico; al subir la tensión se desplaza el problema hacia otros, procesos o dificultad; aparecen defensas y luego bloqueo. | ¿Qué pérdidas, riesgos de imagen o consecuencias percibidas hacen costoso sostener la responsabilidad propia? |
-| 5 | **Coordinación fragmentada** | Media–alta | [P] Planeaciones de producción y HSE desconectadas; HSE no siempre integrado al ciclo; silos; ajustes por proyecto y no globales; participación desigual. | ¿Qué decisiones requieren hoy coordinación interáreas y quién tiene autoridad para resolverlas? |
-| 6 | **Miedo, cautela y voces ausentes** | Media–alta | [P] “Cultura del miedo”. [O] Cuidado al hablar, baja confrontación, silencios, personas que no intervinieron. | ¿Qué temas no se dicen, ante quién y qué se teme perder? |
-| 7 | **Desalineación con subcontratistas y transiciones de obra** | Media | [P] Bajos estándares atribuidos a subcontratistas; culturas distintas; inicio y cierre de obra señalados como críticos. | ¿Qué muestran los datos por fase, contratista y tipo de trabajo? |
-| 8 | **Capacidad existente con baja transferencia** | Media | [P/O] Buen dominio conceptual de liderazgo; talleres anteriores que “se quedan en el taller”; buena observación cuando hay consigna clara. | ¿Qué mecanismos convierten una reflexión en compromiso, práctica y seguimiento? |
+#### 6. Las presiones productivas y la sobrecarga compiten con la prevención
 
-**Lectura central:** los hallazgos no apuntan a una única causa, sino a un conjunto de bucles entre presión operativa, formalización, coordinación, aprendizaje, miedo y atribución de responsabilidad. El siguiente paso es validar esos bucles con casos, datos y voces adicionales.
+Indicadores, rentabilidad, múltiples prioridades y urgencia operativa aparecen junto con capacitaciones aplazadas y reactividad. A la vez, participantes afirman que existen recursos y avances. Ambas experiencias deben contrastarse, sin descartar una por la otra.
 
----
+*Recurrencia: alta.*
 
-# 3. Diagnóstico temático
+La recurrencia describe la repetición cualitativa de temas en el registro; no cuenta personas ni mide consenso, gravedad o causalidad. Los asuntos menos repetidos se conservan en el análisis y el inventario.
 
-## 3.1 Cultura de seguridad: cumplir no equivale a apropiarse
+### 3. Una fortaleza que conviene aprovechar
 
-[P] El grupo señaló programas para cambiar comportamientos inseguros sin la disminución esperada de las cifras, iniciativas intermitentes y acciones realizadas por obligación más que por comprensión del propósito. También describió muchos procedimientos, poco análisis situacional y aprendizajes “compartidos” mediante el envío de un mensaje sin verificar su apropiación. La cultura y los comportamientos aparecieron como influencias recíprocas, no como una secuencia simple [E].
+El diagnóstico no es exclusivamente deficitario. El grupo identifica problemas, conoce el lenguaje del liderazgo y muestra autocrítica inicial, escucha y capacidad de observación cuando la consigna es clara. También reconoce avances, recursos y estándares valiosos.
 
-La contradicción más útil no es “hay o no hay procedimientos”, sino que puede haber simultáneamente **sobrecarga documental**, vacíos de estandarización corporativa, diferencias por proyecto y fallas de socialización o seguimiento. Esa tensión debe desagregarse en casos concretos.
+**La oportunidad pedagógica es partir de esas capacidades:** ayudar al grupo a investigar qué sostiene los problemas, qué papel desempeña cada quien y cómo movilizar cambios observables.
 
-## 3.2 Producción, prioridades e indicadores
+### 4. Implicación estratégica
 
-[P] Se reportó una presión alta por cumplir indicadores y privilegiar la operación. Actividades de SST, incluidas capacitaciones, se aplazan aun cuando se consideran importantes. La frase “tenemos tanto por hacer… que dejamos de lado lo prioritario” condensa la tensión. También se afirmó que, bajo la presión de cumplir, los números pueden volverse más relevantes que las personas.
+Se propone que las tres sesiones restantes practiquen cuatro capacidades conectadas:
 
-Esto no prueba que la presión produzca accidentes. Sí justifica examinar cómo se toman decisiones bajo restricciones de tiempo, costo, producción y seguridad, qué señales reciben los mandos medios y qué ocurre cuando las metas entran en tensión.
+1. **Profundizar el diagnóstico.** Distinguir hechos, interpretaciones, condiciones y evidencia faltante.
+2. **Leer el sistema humano.** Reconocer actores, intereses, lealtades, pérdidas y temores sin asignarlos de antemano.
+3. **Movilizar conversaciones difíciles.** Examinar tensiones y perspectivas distintas hasta acordar una decisión o un escalamiento.
+4. **Convertir aprendizaje en acción.** Realizar pruebas acotadas, comprobar su aplicación y ajustar.
 
-## 3.3 Aprendizaje, comunicación y memoria organizacional
+La propuesta es trabajarlas mediante **un mismo caso ficticio cercano a la operación**, que evolucione durante las sesiones 2–4 y se acompañe de aplicación y contraste en campo. Esta organización amplía las propuestas originales del observador.
 
-[P] Los accidentes se investigan, pero el grupo percibe repetición; las lecciones no alcanzarían a toda la organización ni se comprobaría que fueron entendidas. Se mencionaron decisiones “en caliente”, multiplicidad de canales, exceso de información, difusión sin verificación y cambios que permanecen dentro de un proyecto. La rotación alta fue asociada con pérdida de aprendizajes.
+### 5. Límites del diagnóstico
 
-El problema descrito no es solo de emisión de información. Involucra al menos cinco pasos: **capturar, interpretar, traducir, practicar y verificar**. Enviar no equivale a aprender; asistir tampoco equivale a cambiar una práctica.
+Una sesión permite formular hipótesis, no describir toda la organización ni explicar causalmente sus accidentes. Faltan datos de accidentalidad y exposición, evidencias de implementación y voces directas de operación. Lo que los gerentes imaginan que dirían sus equipos no constituye testimonio de esos equipos.
 
-## 3.4 Coordinación, silos y lugar de HSE
+El aumento paralelo reportado de ventas y accidentes tampoco demuestra un empeoramiento de la tasa de accidentalidad ni una relación causal con el crecimiento.
 
-[P] La planeación de producción y la de HSE no siempre dialogan. Se solicitó una mejor inclusión de HSE durante todo el ciclo, no como revisión separada o tardía. No todas las áreas o personas se involucran igual y algunos cambios se realizan por proyecto sin convertirse en práctica global. La capa administrativa fue descrita como menos cubierta por la política fuerte de SST aplicada a operaciones.
+## Cómo consultar y verificar este documento
 
-La sesión no estableció si el problema es de estructura, roles, secuencia, capacidad o relaciones; esa distinción debe resolverse antes de intervenir.
+El informe comparado aporta mejoras de organización e hipótesis; no se utiliza como fuente de nuevos testimonios. La evidencia de la sesión sigue siendo la bitácora.
 
-## 3.5 Responsabilidad, culpa y autoridad
+La lectura rápida termina en el resumen y la sección 2. Las secciones 3–6 desarrollan el diagnóstico; 7–8 sirven para preparar las siguientes sesiones. La sección 9 permite cotejar cada tramo con la fuente.
 
-[P] Se pidió que el cuidado fuera de todos: autocuidado y cuidado de otros al advertir riesgos. También se señaló que falta asumir responsabilidad en todos los niveles y que el problema suele quedar en “otros”. [O/HU] En las peceras se observó un movimiento repetido: reconocimiento propio, aumento de temperatura, externalización, defensa de lo realizado y dificultad para pasar a una acción nueva.
+**Procedencias:** **P**, participantes —declaraciones y observaciones que ellos reportan—; **O**, observación del autor de la bitácora; **HU**, hipótesis, interpretación o pregunta del autor; **E**, encuadre/intervención de facilitación; **HA**, hipótesis añadida en este documento. Las recomendaciones nuevas se identifican como tales. Las comillas reproducen fragmentos del registro escrito, no de una transcripción de audio. El resto es paráfrasis.
 
-[P] La autoridad fue asociada con “policía”, “cansón” y “regañón”. Esta percepción puede ser relevante en una cultura descrita como cargada de procedimientos y de “ay de que no”, pero todavía no se conoce su extensión ni su efecto. Autoridad formal y ejercicio de liderazgo deben mantenerse diferenciados.
+**Recurrencia:** alta = reaparece en varios momentos; media = vuelve en más de un pasaje; puntual = una mención o un pasaje concentrado. Es una clasificación cualitativa editorial: no cuenta personas ni mide consenso, gravedad o causalidad. Los temas puntuales y las voces discrepantes se conservan.
 
-## 3.6 Miedo, confianza y participación
+**Fuente de cotejo:** [bitácora original íntegra](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt). Las referencias **L** indican líneas de ese archivo, incluidas las líneas en blanco. Se conserva sin corregir su escritura. La fecha de 2026 proviene del encargo; el archivo especifica día, mes y horario.
 
-[P] El miedo apareció en distintos ejes. [O] Las personas escuchaban, no se apropiaban de la conversación y hablaban con fórmulas cautas como “yo creo” o “es mi percepción”. La temperatura inicial fue baja y sin réplicas; más tarde subieron las voces y aparecieron molestias, pero la tensión se frenó. Algunas personas no hablaron durante toda la sesión y, en un momento, la conversación quedó concentrada en pocos sin que el grupo invitara a quienes estaban fuera.
+## 1. Contexto y propósito
 
-El “exceso de confianza” mencionado frente a habilidades propias —asociado por el grupo con actuar de forma descuidada— es distinto de la confianza interpersonal necesaria para plantear dudas y riesgos. Conviene no mezclar ambos significados.
+El observador participa como cofacilitador en un proceso de cuatro sesiones para una organización de construcción. El propósito es desarrollar capacidades humanas, relacionales y culturales que contribuyan a mejorar la seguridad y salud en el trabajo (**SST**). El liderazgo adaptativo es el marco de aprendizaje. La sesión 1 se concentró en **observar**, dentro del ciclo observar–interpretar–intervenir, y en identificar los problemas que el grupo relaciona con la seguridad. Participaron 34 gerentes medios de producción, Gestión Humana, HSE —área de salud, seguridad y medioambiente— y áreas técnicas, entre otras. [L9–21]
 
-## 3.7 Personas, diversidad y desarrollo de capacidades
+La empresa fue presentada como líder, con crecimiento y estándares altos. El incremento paralelo reportado de ventas y accidentes no permite afirmar que haya crecido la tasa de accidentalidad ni atribuirla al crecimiento: faltan cifras, exposición y comparabilidad.
 
-[P] Se reconocieron generaciones y formas de aprender distintas, y se planteó la necesidad de estrategias variadas. [O] Quienes tenían más experiencia o antigüedad tendían a iniciar la conversación y se hablaba desde experiencias personales. El grupo definió liderazgo con conceptos como responsabilidad, ejemplo, confianza e involucramiento; luego confirmó haber recibido múltiples talleres que no siempre se traducen a la vida real.
+**Recorrido de la jornada:** llegada y normas → encuentros por parejas → desafíos en grupos de cinco → liderazgo y autoridad → primera pecera sobre cultura/comportamientos → receso y balcón → segunda pecera sobre aprendizajes → tercera pecera con todos y desequilibrio productivo → proyección de la voz de los equipos → Lencioni y conflicto → valoración final. Una *pecera* es una conversación observada por otras personas; el registro conserva una ambigüedad sobre la dirección de observación en la primera consigna. [L23–203]
 
-Esto sugiere que la necesidad no es solo aumentar contenido, sino diseñar práctica situada, repetición, retroalimentación y responsabilidad compartida.
+Las afirmaciones de facilitación sobre “98 %” y “90 %” se preservan en el inventario como parte de lo ocurrido; no se usan como estadísticas verificadas.
 
-## 3.8 Proyectos, subcontratistas y ciclo de obra
+## 2. Diagnóstico prioritario
 
-[P] Se atribuyeron estándares de seguridad bajos a algunos subcontratistas y falta de alineación con los estándares propios. Los inicios y finales de obra fueron señalados como momentos de mayor accidentalidad. También se mencionó que el traslado a ciertos proyectos se percibe como castigo, posiblemente alimentado por una “mala venta” interna del proyecto.
+La priorización agrupa recurrencias; el orden entre núcleos de frecuencia alta no representa una medición exacta.
 
-Son afirmaciones diagnósticas por validar. Deben contrastarse por contratista, fase, tipo de labor, exposición, dotación, rotación y condiciones de cada proyecto, sin convertir percepciones en etiquetas.
+| Prioridad de trabajo | Lo que sostiene el hallazgo | Recurrencia | Pregunta de diagnóstico |
+|---|---|---|---|
+| **1. Cumplimiento y responsabilidad por el resultado** | Procedimientos en papel, difusión sin comprobar aprendizaje, talleres sin transferencia, “yo hice esto, cumplí” y plan padrino. [L38, 66, 123, 152–166] | Alta | ¿Dónde termina la tarea formal y quién comprueba que se logró su propósito? |
+| **2. Coordinación y propósito compartido** | Planeación separada, HSE fuera de partes del ciclo, cambios por proyecto, prioridades distintas y relación apoyo/responsable. Conversación intraequipo más productiva que interequipos. [L39–45, 129, 146–155, 173, 198] | Alta | ¿Qué decisión requiere trabajo conjunto y queda hoy repartida entre áreas? |
+| **3. Miedo y conflicto sin cierre** | Cautela observada; miedo y exclusión relatados; disputas por tener razón. Una participante cuestiona la lectura de miedo. [L97, 191–199] | Alta, con disenso | ¿Quién puede cuestionar qué, ante quién y con qué consecuencias? ¿Cómo termina la discrepancia? |
+| **4. Del diagnóstico a la acción propia** | Propuestas sin siguiente paso, quejas, reconocimiento sin aporte de acción y discusión sobre asumir lo hecho/no hecho. [L129, 150–159, 197] | Alta | ¿Qué puede movilizar cada quien desde su rol, con quién y cómo sabremos que ocurrió? |
+| **5. Aprendizaje y transferencia** | Investigación sin aprendizaje percibido, rotación, cobertura/comprensión no aseguradas, saturación informativa y herramientas que no llegan a equipos. [L41, 47–50, 122–132, 160–165] | Alta | ¿Qué cambió en el trabajo después de una lección o capacitación concreta? |
+| **6. Presión productiva y prevención** | Indicadores, postergación SST, costos, mercado y reactividad; contrapunto de recursos disponibles y avances. [L48–53, 128, 149–150, 163, 170–177] | Alta | ¿Cómo se resuelve una tensión concreta entre plazo, costo y seguridad? |
 
-## 3.9 Factores menos visibles
+**Señales menos repetidas, no menos importantes:** subcontratistas, fases de obra, administrativos, estrés, generaciones, culturas de origen, proyectos estigmatizados y camaradería. Permiten preguntar dónde cambia el patrón general; se desarrollan en 3.7 y se conservan en el inventario.
 
-[P] Se nombró el estrés como un aspecto “silencioso” al que no se concede suficiente relevancia. También aparecieron resistencia al cambio, procrastinación de SST, sobrecarga de información y posible distancia del personal administrativo respecto del riesgo de campo. Son señales puntuales, pero conectan con los núcleos de prioridad, carga, miedo y transferencia.
+**Hilo conductor del observador:** reconocimiento propio → externalización → defensa de avances → tensión y freno → dificultad para precisar una contribución propia. Es una interpretación recurrente suya, no una secuencia demostrada en todos los participantes. [HU: L77–81, 124–130, 170–176]
 
----
+## 3. Diagnóstico temático
 
-# 4. Tensiones y conexiones sistémicas
+### 3.1 Cumplimiento formal, apropiación y responsabilidad
 
-**[HA] Las conexiones siguientes son hipótesis añadidas por este análisis.** Se apoyan en declaraciones de participantes y en observaciones e hipótesis originales, pero las secuencias completas y sus flechas no fueron demostradas ni deben atribuirse al grupo. Cada flecha propone una relación por investigar, no una causalidad establecida. Deben leerse junto con la sección 6.
+**P:** existen procedimientos, programas y capacitaciones, pero se describe una brecha con la práctica. Los programas de comportamientos seguros serían intermitentes en ejecución e impacto. Se dice una cosa sobre cuidado o trabajo en equipo y se hace otra; la conversación vuelve al cumplimiento del requerimiento, sin comprobar el resultado. El plan padrino permite examinar esta brecha en una práctica concreta: asignación y firma no garantizan, según lo expresado, aprendizaje. [L37–55, 86, 123, 152, 159, 164–166]
 
-## 4.1 Bucle de cumplimiento sin apropiación
+**HU:** el autor distingue reconocer el error de asumirlo y actuar. También duda si la abundancia documental convive con vacíos de estándares corporativos, variaciones por producto/proyecto o problemas de socialización y seguimiento. [L48, 110]
 
-Más procedimientos y mensajes → mayor carga documental e informativa → atención fragmentada → cumplimiento formal o difusión sin verificación → baja interiorización → persistencia percibida de prácticas problemáticas → creación de nuevos procedimientos o campañas.
+**Por esclarecer:** qué falla en cada caso —diseño, comprensión, recursos, aplicación o comprobación—. “Cultura” y “procedimientos” son categorías todavía demasiado amplias para decidir una intervención.
 
-**Punto de prueba:** escoger un procedimiento crítico y seguir su recorrido real, desde la planeación hasta la ejecución y retroalimentación, para ubicar la ruptura concreta.
+### 3.2 Coordinación entre áreas y responsabilidad compartida
 
-## 4.2 Bucle de presión y postergación
+**P:** producción y HSE no siempre coordinan su planeación; se pide integrar HSE al ciclo completo. Las áreas trabajan en lo propio, los roces quedan abiertos, las prioridades no se alinean y algunos ajustes se quedan en un proyecto. Se propone interiorizar que construir bien sostiene a todos y que HSE contribuye a ese objetivo. [L39, 45, 57, 129, 146–155]
 
-Presión por resultados y volumen de tareas → priorización de producción → aplazamiento de actividades preventivas → menos tiempo para reflexionar, coordinar y aprender → decisiones “en caliente” → nuevas urgencias y mayor presión.
+La distancia producción–HSE se reconoce desde ambos lados. La formulación “somos apoyo, Uds responsable” aparece junto con la afirmación de responsabilidad de todos y la sensación de que cada quien queda con su parte. Se reivindica, además, la integralidad de los ingenieros. **P:** dentro de los equipos sí habría conversación productiva; entre equipos, menos. **O:** los mensajes se dirigen al facilitador, en lugar de a la contraparte presente. [L173–174, 198]
 
-**Punto de prueba:** reconstruir dos decisiones reales en las que producción y seguridad hayan competido, sin buscar culpables.
+**P:** el grupo advierte que los temas se están quedando arriba y los problemas cotidianos no llegan a la conversación; también pide salir de los documentos y observar la operación. [L177–180]
 
-## 4.3 Bucle de miedo, silencio y falsa tranquilidad
+**Por esclarecer:** responsabilidades concretas, decisiones conjuntas, canales de escalamiento y diferencias entre las relaciones intraequipo e interequipos.
 
-Percepción de autoridad punitiva o riesgo de imagen → cautela, baja discrepancia o silencio → menos información sobre dudas, errores y riesgos → conversaciones ordenadas pero incompletas → decisiones con menos señales → refuerzo de la necesidad de control.
+### 3.3 Aprendizaje, comunicación y transmisión del conocimiento
 
-**Punto de prueba:** preguntar de forma anónima qué asuntos de seguridad cuesta plantear, a quién y por qué.
+**P:** se investigan accidentes que se perciben repetidos; las experiencias no perduran y la rotación pierde aprendizajes. Las lecciones se envían sin asegurar que todos las reciban, entiendan e interioricen. Correo, WhatsApp y múltiples grupos saturan la atención: la información se vuelve paisaje. Se reportan decisiones en caliente y muchas formaciones que no pasan a la vida cotidiana. [L41, 47–50, 59, 66, 121–132, 160]
 
-## 4.4 Bucle de autocrítica y externalización
+**Registro mixto:** herramientas recibidas no se enseñan a los equipos; aparecen posibles miedos a empoderarse, exponerse al juicio por cambiar o perder el trabajo al desarrollar conocimientos en otros. La redacción intercala comentarios del autor, por lo que no permite atribuir cada motivo con certeza a una persona del grupo. Son explicaciones planteadas, no motivaciones comprobadas. [L162]
 
-Reconocimiento inicial de responsabilidad → aumento de incomodidad o conflicto → traslado del problema a otros/procesos → defensa de avances existentes → descenso de temperatura → dificultad para formular una acción propia verificable.
+**P:** generaciones distintas necesitarían estrategias de aprendizaje diversas. Esto no autoriza estereotipos sobre edades. El grupo también reconoce avances y el tiempo que exige cambiar. [L78–79, 175–176]
 
-**Punto de prueba:** terminar cada diagnóstico con “¿qué parte está dentro de nuestro rol, qué parte requiere autoridad superior y qué evidencia falta?”.
+**Por esclarecer:** seguir una lección completa, desde el evento hasta su aplicación observada; identificar qué conocimiento sí se transmite y bajo qué condiciones.
 
-## 4.5 Bucle de aprendizaje incompleto
+### 3.4 Miedo, autoridad, voz y conflicto
 
-Incidente o casi incidente → investigación y producción de lección → distribución por múltiples canales → recepción no comprobada → poca traducción a rutinas locales → rotación o cambio de proyecto → pérdida de memoria → repetición percibida.
+**P:** autoridad se asocia con “policía”, “cansón” y “regañón”. Tras Lencioni se describen temor a hablar con transparencia ante el ego del jefe, exclusión del “llavero”, reproche al resultado, búsqueda de culpables e ideas que no se ejecutan por miedo. [L68, 191–193]
 
-**Punto de prueba:** auditar una lección reciente desde su origen hasta tres equipos receptores y observar qué cambió realmente.
+**P, con discrepancias preservadas:** alguien afirma que sí abren el conflicto, pero lo dejan en quién tiene razón y sin cierre productivo; aparecen guerras de poder. Otra participante insiste en que sí confrontan, que son percibidos como duros en otras organizaciones y que no cree que haya miedo a decir o pelear. La bitácora no registra que ella retire esa posición. [L194–199]
 
-## 4.6 Tensión transversal: fortalezas que también pueden proteger el statu quo
+**P-proyección:** al imaginar qué dirían sus equipos, los gerentes anticipan inutilidad de hablar y miedo a despido o castigo. Falta escuchar directamente a esos equipos. **O:** hay cautela, silencios y personas que no hablaron. Estas conductas por sí solas no identifican su motivo. [L97, 127, 131, 184–187]
 
-- La experiencia permite reconocer patrones, pero las voces con más antigüedad pueden ocupar primero el espacio.
-- La cortesía favorece la escucha, pero puede evitar la discrepancia necesaria.
-- Reconocer avances sostiene la motivación, pero puede convertirse en defensa si cierra la pregunta por lo pendiente.
-- Aceptar que la cultura toma tiempo evita soluciones mágicas, pero puede diluir responsabilidad inmediata.
-- Los procedimientos dan estabilidad, pero su acumulación puede desplazar análisis y criterio situacional.
+**Por esclarecer:** distinguir miedo a discrepar, confrontación competitiva, posibilidad de cuestionar a una autoridad y capacidad de cerrar acuerdos. Pueden variar entre personas y contextos.
 
----
+### 3.5 Producción, costos, recursos y reactividad
 
-# 5. Observaciones e hipótesis originales preservadas
+**P:** la presión por indicadores prioriza operación; SST y capacitaciones se aplazan pese a considerarse importantes. “Tenemos tanto por hacer… que dejamos de lado lo prioritario”. Se describen poca iniciativa preventiva, apagar incendios y continuar por costumbre. Seguridad tiene costos; vender, rentabilizar y cumplir lo comprometido también presionan las decisiones. [L48, 53, 126–128, 149–150, 163, 172]
 
-Esta sección mantiene separada la mirada del observador/cofacilitador de las declaraciones de participantes. Se conserva como material de trabajo, no como hecho comprobado.
+**Contrapunto P:** la empresa dispone recursos, tiene documentación y estándares destacados, HSE ha mejorado y las personas han interiorizado parte del proceso. El grupo pide reconocer avances y tiempo de aprendizaje. La interpretación del autor sobre defensa no invalida esas afirmaciones. [L170–176]
 
-## 5.1 Observaciones descriptivas [O]
+**Por esclarecer:** contrastar decisiones reales, no resolver la tensión mediante una afirmación genérica de que seguridad “es primero”. Disponibilidad general de recursos y acceso efectivo en una decisión no son necesariamente lo mismo; comprobarlo es una tarea pendiente.
 
-- Llegada tardía o permanencia fuera del salón al inicio; interacción previa y conocimiento parcial entre participantes.
-- Participación fluida en grupos de cinco y agilidad para identificar problemas iniciales.
-- Escucha ordenada, poca apropiación de la conversación por una sola persona y baja réplica al comienzo.
-- En el primer ejercicio de observación, atención a elementos físicos —manos, pies, tonos, composición por género— y esfuerzo por no saltar al juicio.
-- Iniciativa más frecuente de personas con mayor experiencia o antigüedad; uso de experiencias personales.
-- Cuidado verbal para expresar desacuerdo; conversación “polite”, sin exposición intensa ni conflicto fuerte.
-- En la segunda pecera, inicio con voces bajas, aumento gradual de participación y tono, una réplica, un silencio prolongado y concentración temporal de la conversación en pocas personas.
-- Algunas personas no hablaron durante toda la sesión; el grupo no invitó espontáneamente a todas las voces.
-- El grupo realizó varias interpretaciones y propuestas de intervención antes de profundizar en observaciones y causas.
+### 3.6 Del diagnóstico a la acción propia
 
-## 5.2 Hipótesis e interpretaciones originales [HU]
+**P y registro mixto:** se reconocen problemas y se formulan propuestas, pero se señala dificultad para dar el siguiente paso; aparecen quejas, escasa iniciativa preventiva y reconocimiento sin aporte de acción. Más adelante se contrapone atribuir culpa a otros con asumir lo hecho o dejado de hacer. [L129, 150–159, 197]
 
-- La disposición inicial podía expresar desinterés o resistencia al espacio.
-- El primer impulso normativo al proponer reglas podía reflejar la cultura; la broma de “no tener reglas” podía relacionarse con saturación normativa.
-- La dificultad del *speed dating* para hablar de asuntos humanos podía relacionarse con confianza insuficiente.
-- El grupo sería hábil para identificar problemas iniciales, pero tendría mayor dificultad para llegar a causas raíz que lo confronten.
-- Podría reconocer sus errores, pero le costaría asumirlos y convertirlos en acciones.
-- La percepción de SST como distante podría ser mayor en la capa administrativa.
-- El grupo tendría un impulso inicial de responsabilidad y locus de control interno; la imagen, el ego o la presión por cumplir podrían favorecer luego la externalización.
-- Reconocer que la cultura toma tiempo es realista, aunque también podría servir para quitarse el problema de encima.
-- La secuencia observada sería: autocrítica → externalización → defensa de lo avanzado → aumento y freno de la molestia → bloqueo frente a la acción.
-- Recordar avances podría funcionar como mecanismo de defensa, sin que por ello los avances dejen de ser reales o valiosos.
-- La atribución de culpa a procesos más que a personas requería interpretación adicional.
-- El encuadre inicial del proceso pudo ser insuficientemente específico: por qué estaban allí, hacia dónde iban las cuatro sesiones y por qué no era otro taller de liderazgo.
-- Podría ser útil una herramienta semejante a los “cinco porqués” para profundizar, siempre que no simplifique en una causa única.
-- Las brechas generacionales, la percepción negativa de la autoridad y el miedo podían contener información todavía no explicitada.
+**HU:** el autor aprecia capacidad diagnóstica inicial, pero duda de su profundidad y de cómo convertir el “ruido” de la conversación en aprendizaje útil. No espera resolver todos los problemas en cuatro sesiones. [L33, 140, 207–210]
 
-## 5.3 Preguntas originales que conviene conservar
+**Por esclarecer:** qué parte depende de decisiones propias, cuál requiere coordinación y cuál necesita autoridad o recursos adicionales. Responsabilizarse no significa cargar individualmente con restricciones del sistema.
 
-- ¿Qué pasa para que lo que ven no llegue más allá ni se traduzca en acción?
-- ¿Qué cultura está generando los problemas o impidiendo resolverlos?
-- ¿Qué impide que, desde el alcance de sus roles, potencien comportamientos y cultura de seguridad?
-- ¿Hay miedos presentes que todavía no se están viendo o aceptando?
-- Si existen muchos procedimientos y a la vez se reporta falta de estandarización, ¿qué parte del problema es diseño, socialización, seguimiento o adaptación local?
-- ¿Qué significa que la culpa se lleve más a los procesos que a las personas?
+### 3.7 Particularidades que no deben perderse
 
----
+| Señal del registro | Matiz o pregunta pendiente |
+|---|---|
+| **Subcontratistas:** estándares percibidos bajos y culturas distintas. [L40, 51] | Identificar casos, condiciones y mecanismos de alineación; no extender la etiqueta a todos. |
+| **Inicio y cierre de obra:** señalados como de mayor accidentalidad. [L52] | Validar con registros y exposición por fase. |
+| **Administrativos:** unas 200 personas con menor cobertura de política SST según el grupo. [L42] | La posible lejanía del riesgo es hipótesis del autor. |
+| **Estrés:** factor silencioso con poca atención. [L44] | Su mención aislada justifica indagar; no acredita un diagnóstico de salud. |
+| **Exceso de confianza en habilidades:** asociado por el grupo con descuido. [L58] | Es diferente de confianza interpersonal para preguntar o discrepar. |
+| **Proyectos como castigo y mala presentación interna.** [L94–95] | Explorar experiencias y cómo se comunica la asignación; extensión a otros asuntos es tentativa. |
+| **Culturas de origen diversas.** [L161] | Se dice que la organización resulta de su unión; no se especifica una historia de fusiones. |
+| **Soltar prácticas antiguas / recuperar camaradería.** [L156–157] | Una persona pide actualizarse; otra extraña resolver juntos. No hay acuerdo registrado del resto. |
+| **Quejas frecuentes e iniciativas escasas.** [L150, 153] | Preguntar qué ocurre después de una queja y qué facilita una iniciativa. |
 
-# 6. Hipótesis e interpretaciones añadidas
+## 4. Tensiones y conexiones sistémicas
 
-Todas las siguientes son **[HA] hipótesis provisionales**. Se derivan de patrones de la bitácora, pero requieren validación; ninguna explica por sí sola la accidentalidad.
+Esta sección yuxtapone evidencias y preserva contradicciones. Las explicaciones nuevas sobre mecanismos se reservan para la sección 6.
 
-| Hipótesis provisional | Base en la sesión | Qué podría refutarla o matizarla |
+| Tensión | Evidencias que deben leerse juntas | Pregunta útil |
 |---|---|---|
-| **H1. El problema no es simplemente “falta de procedimientos”, sino la gobernanza de su uso.** | Coexisten abundancia documental, baja aplicación, variación por proyecto y falta de estandarización percibida. | Evidencia de prácticas críticas consistentes, comprendidas y verificadas en proyectos diversos. |
-| **H2. La cortesía puede estar ocultando desacuerdo y riesgo.** | Cautela, baja réplica, miedo nombrado y voces ausentes, junto con escucha ordenada. | Situaciones donde se planteen malas noticias y desacuerdos a la autoridad sin costo interpersonal. |
-| **H3. El aprendizaje se trata como producto de comunicación, no como cambio de práctica.** | Énfasis en enviar/publicar lecciones, sin comprobación de comprensión e incorporación. | Trazabilidad que muestre práctica, observación en campo y retroalimentación posterior. |
-| **H4. Los mandos medios viven una doble exigencia.** | Deben responder por indicadores productivos y movilizar seguridad; describen postergación y presión. | Metas, incentivos y decisiones que demuestren alineación operativa consistente entre producción y SST. |
-| **H5. La externalización protege identidad y pertenencia cuando sube la tensión.** | Movimiento observado desde autocrítica hacia culpa externa, defensa de logros y bloqueo. | Conversaciones de alta tensión donde se sostenga responsabilidad propia hasta acordar acciones. |
-| **H6. La fragmentación puede ser horizontal y temporal.** | Silos entre áreas, cambios por proyecto, rotación, transiciones de obra y subcontratistas. | Mecanismos corporativos efectivos que conecten áreas, fases y terceros con continuidad demostrable. |
-| **H7. El grupo posee capacidad de observación que puede convertirse en palanca.** | Buen desempeño al distinguir observaciones físicas de interpretaciones y mayor participación en la segunda pecera. | Dificultad persistente para usar esa distinción en casos reales fuera del aula. |
-| **H8. El personal administrativo podría experimentar menor proximidad psicológica al riesgo.** | Cobertura de SST percibida como más fuerte en operaciones y pregunta original del observador. | Evidencia de participación, decisiones y exposición administrativa integradas de manera equivalente. |
+| **Muchos procedimientos / falta de estándares compartidos** | Documentación abundante y problemas de estandarización, aplicación y seguimiento. [L50, 55, 110, 171] | ¿Falta una regla o falla su uso en una interfaz específica? |
+| **Responsabilidad de todos / cada área con lo suyo** | Propósito común enunciado, pero separación apoyo–responsable y distancia reconocida por ambas áreas. [L155, 173] | ¿Qué compromiso requiere dos responsables que actúen juntos? |
+| **Miedo al conflicto / disposición a pelear** | Temor y exclusión relatados; conflicto sin cierre; participante que niega miedo. [L191–199] | ¿Estamos hablando del mismo conflicto, interlocutor y costo? |
+| **Avances y recursos / presión de costos y postergación** | Estándares y mejoras reivindicados, junto con urgencia comercial. [L163, 170–176] | ¿Qué ejemplos muestran ambas experiencias? |
+| **Conservar experiencia / cambiar prácticas** | Cambio lento, soltar lo anterior y recuperar camaradería. [L79, 156–157] | ¿Qué conviene preservar y qué debe modificarse? |
+| **Hablar de problemas / hablar con quien puede resolverlos** | Abundancia de diagnóstico y exposición al facilitador; asuntos cotidianos quedan fuera. [L154, 174, 180] | ¿Qué conversación pendiente necesita ocurrir entre pares? |
 
----
+**Conexión original del autor [HU]:** al crecer la incomodidad, la autocrítica cede espacio a externalización y defensa; luego cuesta formular acción propia. El registro también muestra retornos a la responsabilidad, por ejemplo al revisar la difusión de lecciones. Por ello, el patrón no es uniforme ni irreversible. [L124–130]
 
-# 7. Herramientas y conceptos para el proceso
+**Temperatura: dos registros distintos.** El autor anota subidas de voz y tensión. En el dibujo final, el grupo considera baja la temperatura global de la tercera pecera, pese a intentos de elevarla, y a la vez mayor que en el día a día. Son evaluaciones de distinta escala; ninguna autoriza a concluir que se alcanzó conflicto productivo. [L120, 132, 173, 201–203]
 
-## 7.1 Desafío técnico, adaptativo o mixto
+## 5. Observaciones, interpretaciones y propuestas originales del autor
 
-Un problema técnico tiene un diagnóstico y conocimiento especializado relativamente disponibles; uno adaptativo exige aprendizaje, cambios de hábitos, prioridades, relaciones o valores. En SST, la mayoría de los desafíos descritos parecen **mixtos**: pueden requerir estándares y controles técnicos, y también cambios en cómo las personas coordinan, hablan, deciden y aprenden. Harvard Kennedy School resume que los desafíos adaptativos suelen exigir capacidades nuevas y carecen de una solución clara predeterminada ([HKS](https://www.hks.harvard.edu/faculty-research/policy-topics/public-leadership-management/hks-faculty-teach-leaders-how-make)).
+### Lo observado [O], separado de su significado
 
-**Uso sugerido:** para cada desafío, completar tres columnas: “qué sabemos hacer”, “qué debemos aprender” y “qué pérdidas o cambios de hábito implica”. Evita etiquetar todo como cultural y descuidar controles técnicos.
+Llegadas y ubicación fuera del salón; interacción inicial; conversación fluida en grupos; escucha inicial sin réplicas; soltura gradual; cautela verbal; voces que aumentan, silencio prolongado, concentración de la conversación y ausencia de intervención de algunas personas. También se registra asentimiento general y la tendencia a explicar al facilitador en vez de hablar entre pares. [L23–33, 62, 97, 120–132, 151, 154, 174]
 
-## 7.2 Balcón y pista de baile
+**Atribución importante:** “nadie monopoliza”, atención, movimientos de brazos/piernas, mayor iniciativa de personas experimentadas y mayor fluidez en la segunda pecera son observaciones reportadas por **participantes que observaban**, recogidas y valoradas por el autor. No se convierten aquí en observaciones independientes suyas. El posible nerviosismo es interpretación. [L83–88, 134–138]
 
-“Subirse al balcón” permite tomar distancia para observar patrones mientras se conserva contacto con la acción. La práctica adaptativa alterna entre panorama y experiencia inmediata; el libro de Heifetz, Grashow y Linsky ofrece herramientas para diagnosticar y movilizar desafíos complejos ([Harvard Kennedy School](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world)).
+### Lecturas originales [HU], preservadas como hipótesis
 
-**Uso sugerido:** después de cada caso real, separar: datos observables; interpretaciones; emociones; voces presentes/ausentes; acciones ensayadas; resultados.
+- Impresión de que se conocen parcialmente y no se ven a diario; posible desinterés/resistencia inicial; saturación de reglas detrás de la broma normativa; confianza detrás de la dificultad para hablar de asuntos humanos. El autor señala que encontró confirmaciones posteriores; no equivale a verificación independiente. [L25–31]
+- Buena capacidad para observar, identificar problemas y reconocer responsabilidad; mayor dificultad para profundizar en lo que los confronta y traducirlo a acción. [L33, 48, 88, 97, 105–106]
+- Imagen, ego y presión por cumplir podrían favorecer externalización; decir que la cultura toma tiempo puede expresar realismo y también alejamiento de responsabilidad. [L77–81]
+- Reivindicar avances puede proteger al grupo; conviene reconocer lo logrado y abrir la pregunta por el siguiente paso. El pedido implícito de no recibir más de lo mismo también podría ser genuino. [L130, 170, 175–176]
+- Cautela ante el conflicto, posible huida cuando aparecen roces y miedos todavía poco explicitados. Preguntas sobre brechas generacionales, autoridad y culpa trasladada a procesos. [L97, 107–112, 138, 147]
+- Posible distancia de administrativos respecto del tema; dudas sobre existencia, claridad, estandarización y seguimiento de procedimientos. [L42, 110]
+- Encuadre inicial insuficiente; necesidad de aclarar expectativas del cliente y objetivo pedagógico. El autor considera que sí se logró un diagnóstico inicial, aunque queda mucho por ordenar. [L72, 182, 206–210]
 
-## 7.3 Regular la temperatura y devolver el trabajo
+### Propuestas originales para continuar
 
-El liderazgo adaptativo no elimina toda incomodidad: mantiene suficiente tensión para trabajar lo difícil sin llevar al grupo al bloqueo. También evita que la autoridad resuelva por otros lo que requiere aprendizaje compartido. Heifetz y Laurie describen el trabajo de liderazgo como formular preguntas difíciles y manejar el malestar resultante ([Harvard Business Review](https://hbr.org/2001/12/the-work-of-leadership)).
+Ordenar y devolver la información; profundizar en qué sostiene los problemas; ofrecer herramientas específicas; practicar con un caso ficticio cercano a situaciones reales; trabajar facciones, lealtades, miedos, seguridad psicológica, conflicto y crítica. El autor contempla los cinco porqués y aclara que cuatro sesiones no resolverán todo. Espera capacidades aplicables a seguridad y posiblemente transferibles a otros ámbitos. [L90, 140, 207–218]
 
-**Uso sugerido:** cuando aparezca culpa o defensa, bajar velocidad, volver a evidencia y preguntar qué parte del trabajo pertenece al grupo; si hay silencio defensivo, introducir casos, trabajo en parejas o respuestas anónimas antes del plenario.
+## 6. Hipótesis e interpretaciones añadidas [HA]
 
-## 7.4 Seguridad psicológica: hablar no es “ser amable”
+Son aportes de este análisis, no declaraciones del grupo ni hipótesis atribuidas al autor. Las flechas, cuando aparecen, representan relaciones propuestas para contrastar.
 
-Edmondson define la seguridad psicológica de equipo como una creencia compartida de que es seguro asumir riesgos interpersonales. En su estudio de 51 equipos, se asoció con conductas de aprendizaje como pedir ayuda, discutir errores y buscar retroalimentación ([Administrative Science Quarterly, 1999](https://doi.org/10.2307/2666999)). No equivale a comodidad, consenso, permisividad ni ausencia de exigencia.
+| Hipótesis | Anclaje y alternativa posible | Cómo contrastarla |
+|---|---|---|
+| **H1. El cierre formal puede sustituir al cierre del aprendizaje.** | Envío/firma → tarea considerada cumplida → verificación insuficiente. Plan padrino y lecciones. También puede faltar tiempo, capacidad o claridad de quién verifica. [L122–123, 159, 165] | Seguir un caso desde asignación hasta demostración de aprendizaje; buscar también uno que sí funcione. |
+| **H2. Las prioridades separadas podrían reproducir la distancia entre áreas.** | Prioridades distintas → roces sin resolver → refugio en lo propio → coordinación nuevamente difícil. Es una secuencia propuesta, no observada completa. Alternativa: diferencias entre proyectos o personas, no solo entre áreas. [L146–148, 173, 198] | Comparar un desacuerdo interno y otro interáreas, con interlocutores y resultado concreto. |
+| **H3. El costo o la inutilidad esperados podrían restringir la conversación.** | Anticipar consecuencias negativas o falta de respuesta → reservar información → acuerdos incompletos. Es hipótesis, apoyada en proyecciones de los gerentes y relatos de exclusión; falta la experiencia directa de los equipos. [L184–193] | Recoger su voz de forma protegida y reconstruir qué pasó con alertas previas. |
+| **H4. Exponer al facilitador puede evitar una negociación directa.** | Mensajes al tercero en vez de a pares. Alternativa: efecto normal de la consigna o del formato de taller. [L154, 174] | Dar una consigna explícita de conversación entre contrapartes y observar si cambia el patrón. |
+| **H5. La transferencia puede implicar pérdidas percibidas.** | Temor planteado a enseñar, perder lugar o ser juzgado; culturas de origen y prácticas antiguas. Atribución mixta y motivos no comprobados. [L156–162] | Preguntar qué se teme perder y qué permitiría enseñar; incluir explicaciones de carga o diseño formativo. |
+| **H6. Las expectativas del proceso pueden favorecer el salto a soluciones.** | Encuadre débil, muchos talleres previos y búsqueda de intervención temprana. Alternativa: urgencias operativas legítimas. [L66–74, 140, 182] | Acordar resultados de aprendizaje y observar si el grupo sostiene mejor el diagnóstico. |
 
-**Uso sugerido:** enmarcar el trabajo como incierto e interdependiente; invitar voces específicas —“¿qué estamos pasando por alto?”—; agradecer la mala noticia; responder sin castigar al mensajero; cerrar el ciclo sobre lo reportado. El conjunto “preparar el terreno, invitar participación y responder productivamente” está sintetizado por Harvard Business School ([HBS](https://www.hbs.edu/recruiting/guides-and-stories/fostering-candor-teams-organizations)).
+**Señal adicional para contrastar [HA]:** la camaradería recordada podría señalar prácticas informales de cooperación que convendría recuperar, o una valoración nostálgica del pasado. Preguntar qué conductas concretas se perdieron, cuáles mejoraron y qué sería seguro conservar; no asumir que formalizar procesos destruyó la colaboración. [L156–157]
 
-## 7.5 Aprender de incidentes y casi incidentes
+No se propone un único circuito causal de accidentalidad. Estas hipótesis se refieren a coordinación, conversación y aprendizaje; requieren validación adicional para relacionarlas con resultados de seguridad.
 
-La seguridad psicológica puede favorecer que aparezcan dudas, errores y casi incidentes que de otro modo permanecerían ocultos. Una tasa mayor de reportes no significa automáticamente peor seguridad: puede reflejar mayor disposición a hablar. Por eso conviene combinar reporte, calidad del análisis y cierre de acciones, sin usar un indicador aislado como prueba de desempeño ([HBS sobre aprendizaje de casi incidentes](https://www.library.hbs.edu/working-knowledge/how-to-learn-from-the-big-mistake-you-almost-make)).
+## 7. Herramientas y conceptos, con bibliografía
 
-**Uso sugerido:** revisión breve sin culpa de un casi incidente: qué se esperaba, qué ocurrió, qué condiciones influyeron, qué señal fue visible, qué barrera funcionó, qué cambio se probará y cómo se verificará.
+Las bases conceptuales siguientes orientan preguntas. **Las aplicaciones a esta sesión son propuestas nuestras**, no intervenciones ya realizadas ni resultados garantizados.
 
-## 7.6 Indicadores preventivos
+| Concepto y sustento | Explicación breve | Aplicación propuesta |
+|---|---|---|
+| **Técnico y adaptativo** [B1–B2] | Distinguir conocimiento/procedimientos disponibles del aprendizaje y cambio de prácticas que requieren las personas. Un desafío puede combinar ambos. | Para un caso: qué falta definir o dotar; qué deben aprender o modificar los actores. Evitar llamar “cultural” a toda falla. |
+| **Balcón y observación** [B1] | Alternar participación con distancia para examinar patrones. | Hoja con hecho, interpretación, evidencia faltante e intervención; incorporar voces ausentes y excepciones. |
+| **Facciones, lealtades y pérdidas** [B1] | Explorar grupos de interés, compromisos y costos percibidos del cambio. | Mapa: actor, propósito, presión, qué protege, qué teme perder y qué necesita de otros. No equiparar automáticamente área con facción. |
+| **Seguridad psicológica** [B3–B4] | Posibilidad compartida de asumir riesgos interpersonales: preguntar, pedir ayuda, advertir o reconocer error. Se ha asociado con aprendizaje de equipo. | Enmarcar por qué hace falta hablar, invitar participación y responder con respeto y seguimiento. Diferenciarla de exceso de confianza en una habilidad. |
+| **Lencioni** [B5] | Marco utilizado en la sesión: confianza, conflicto, compromiso, responsabilidad y resultados; describe sus cinco disfunciones correspondientes. | Usar cada nivel como pregunta sobre una situación. Es un modelo práctico de gestión, no una prueba causal de lo que ocurre en Soletanche. |
+| **Indicadores preventivos y de resultado** [B6] | Los primeros permiten revisar actividades preventivas; los segundos describen eventos ya ocurridos. | Combinar aprendizaje demostrado, acuerdos cerrados y respuesta a alertas con datos de accidentes y exposición. |
 
-OSHA distingue indicadores rezagados —lesiones o incidentes ya ocurridos— de indicadores adelantados, que muestran si las actividades preventivas funcionan. Recomienda usar ambos y propone, entre otros, participación, respuesta a reportes, recorridos de liderazgo y cierre oportuno de acciones ([OSHA](https://www.osha.gov/leading-indicators)). La participación significativa incluye a contratistas y requiere eliminar miedo a represalias o dinámicas de culpa ([OSHA, participación de trabajadores](https://www.osha.gov/safety-management%2Fworker-participation)).
+### Dos herramientas breves para practicar
 
-**Indicadores candidatos para este proceso, sin convertirlos en metas de apariencia:**
+**Ficha de diagnóstico — aplicación propuesta:** completar seis campos sobre un episodio: **1)** qué ocurrió y evidencia disponible; **2)** interpretaciones alternativas; **3)** condiciones técnicas y organizacionales; **4)** actores e intereses que protegen; **5)** pérdidas que el cambio podría implicar; **6)** información faltante y siguiente comprobación. Los cinco porqués, sugeridos por el autor, pueden ayudar si cada respuesta tiene evidencia y admite ramificaciones: no deben terminar automáticamente en “falta de compromiso”. [B1–B2, B7–B8]
 
-- porcentaje de lecciones verificadas en campo, no solo enviadas;
-- tiempo entre reporte, respuesta y cierre con retroalimentación;
-- proporción de reuniones críticas con participación de producción, HSE y terceros relevantes;
-- número y diversidad de voces en revisiones de seguridad;
-- calidad de acciones correctivas: responsable, plazo, evidencia de ejecución y prueba de efectividad;
-- frecuencia de reportes de casi incidentes, interpretada junto con calidad y cierre;
-- compromisos de sesión probados y revisados en la sesión siguiente.
+**Conversación difícil — aplicación propuesta:** **1)** acordar propósito y hechos; **2)** escuchar perspectivas sin convertirlas en acusaciones; **3)** explicitar intereses y restricciones; **4)** decidir una acción conjunta o un escalamiento; **5)** acordar responsable, evidencia de cierre y revisión. Ensayar, recibir retroalimentación y repetir. La “temperatura” es una metáfora de tensión, no de volumen de voz: elevarla no es un logro por sí mismo. Seguridad psicológica no equivale a evitar discrepancias ni a retirar exigencias. [B1, B4–B5]
 
-## 7.7 Bibliografía verificada
+**Límite de aplicación en SST:** trabajar lo humano no reemplaza revisar condiciones de trabajo ni controles técnicos. La jerarquía preventiva prioriza eliminación, sustitución y controles de ingeniería sobre medidas que dependen más de la actuación individual. Los talleres complementan esa revisión, no la sustituyen. [B7–B9]
 
-1. Edmondson, A. C. (1999). *Psychological Safety and Learning Behavior in Work Teams*. **Administrative Science Quarterly, 44**(2), 350–383. [DOI](https://doi.org/10.2307/2666999).
-2. Edmondson, A. C. (2002). *Managing the Risk of Learning: Psychological Safety in Work Teams*. Harvard Business School. [Documento](https://www.hbs.edu/ris/Publication%20Files/02-062_0b5726a8-443d-4629-9e75-736679b870fc.pdf).
-3. Heifetz, R. A., Grashow, A., & Linsky, M. (2009). *The Practice of Adaptive Leadership: Tools and Tactics for Changing Your Organization and the World*. Harvard Business Press. [Ficha de HKS](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world).
-4. Heifetz, R. A., & Laurie, D. L. (2001). *The Work of Leadership*. Harvard Business Review. [Artículo](https://hbr.org/2001/12/the-work-of-leadership).
-5. Occupational Safety and Health Administration. *Leading Indicators*. [Guía institucional](https://www.osha.gov/leading-indicators).
-6. Occupational Safety and Health Administration. *Worker Participation*. [Prácticas recomendadas](https://www.osha.gov/safety-management%2Fworker-participation).
+### Bibliografía verificada y alcance de su uso
 
----
+- **B1.** Heifetz, R. A., Grashow, A. y Linsky, M. (2009). *The Practice of Adaptive Leadership: Tools and Tactics for Changing Your Organization and the World*. Harvard Business Press. [Ficha institucional HKS](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world). Referencia del marco; ficha bibliográfica contrastada, no revisión integral del libro en este trabajo.
+- **B2.** Harvard Kennedy School (2020). *HKS faculty teach leaders how to make better decisions amid uncertainty*. [Artículo institucional con explicación de Heifetz](https://www.hks.harvard.edu/faculty-research/policy-topics/public-leadership-management/hks-faculty-teach-leaders-how-make). Sustenta la distinción técnico–adaptativo.
+- **B3.** Edmondson, A. (1999). *Psychological Safety and Learning Behavior in Work Teams*. **Administrative Science Quarterly, 44**(2), 350–383. [DOI](https://doi.org/10.2307/2666999) · [Artículo consultado, alojado por MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Organizational_Learning_and_Change/Edmondson_1999_Psychological_safety.pdf). Investigación empírica en 51 equipos de una empresa manufacturera; no prueba resultados en esta organización.
+- **B4.** Harvard Business School (7 de julio de 2023). *Fostering Candor in Teams and Organizations*. [Síntesis institucional de prácticas de Edmondson](https://www.hbs.edu/recruiting/guides-and-stories/fostering-candor-teams-organizations).
+- **B5.** The Table Group (s. f.). *The Five Dysfunctions of a Team*. [Modelo y explicación de Patrick Lencioni](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf). Fuente del autor/modelo; se distingue de investigación empírica.
+- **B6.** Occupational Safety and Health Administration (s. f.). *Leading Indicators*. [Guía institucional](https://www.osha.gov/leading-indicators). Referencia metodológica, no evaluación de cumplimiento normativo local.
+- **B7.** Health and Safety Executive, Reino Unido (1999). *Reducing error and influencing behaviour* (HSG48). [Guía institucional de factores humanos](https://www.hse.gov.uk/pubns/books/hsg48.htm). Amplía la mirada más allá de atribuir problemas a una actitud individual.
+- **B8.** Health and Safety Executive, Reino Unido (2004). *Investigating accidents and incidents* (HSG245). [Guía de investigación](https://www.hse.gov.uk/pubns/books/hsg245.htm). Propone reunir información, analizar, identificar controles y concretar acciones; este documento no realiza esa investigación.
+- **B9.** National Institute for Occupational Safety and Health (10 de abril de 2024). *About Hierarchy of Controls*. [Jerarquía de controles](https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html). Referencia técnica general; no sustituye las obligaciones ni la evaluación de riesgos aplicables a cada obra.
 
-# 8. Recomendaciones para las sesiones 2–4
+## 8. Implicaciones para las sesiones 2, 3 y 4
 
-## Sesión 2 — Validar el mapa y profundizar el diagnóstico
+**Base propuesta por el autor:** devolver diagnóstico, identificar lo que sostiene los problemas y practicar herramientas pertinentes con un caso ficticio realista. **Diseño añadido:** la secuencia y los productos de abajo. Son sugerencias para acordar con el equipo facilitador, no compromisos ya asumidos por el cliente.
 
-**Resultado esperado:** pasar de una lista amplia de problemas a 3–4 desafíos mixtos, descritos con evidencia y sin saltar a soluciones.
+Antes de la sesión 2 conviene precisar con el patrocinador qué capacidad espera ver, en qué situación operativa se aplicará, qué decisiones pueden tomar estos mandos medios y cómo se acompañará la práctica entre sesiones. Esto responde a la pregunta pedagógica original. [L182, 207–218]
 
-1. **Reencuadrar el proceso en 10 minutos.** Conectar explícitamente las cuatro sesiones con la mejora de seguridad; reconocer lo ya construido y aclarar que no es otro taller conceptual.
-2. **Validar este diagnóstico.** Usar una escala: “refleja / matiza / falta / no refleja”. Recoger respuestas individuales antes del plenario para incluir voces menos visibles.
-3. **Trabajar tres casos reales:** una lección que no se tradujo a práctica, una decisión bajo presión y una falla de coordinación producción–HSE. Separar observación, interpretación e intervención.
-4. **Mapear el circuito de aprendizaje.** Incidente o casi incidente → investigación → decisión → comunicación → práctica → verificación → retroalimentación.
-5. **Clasificar componentes técnicos y adaptativos.** Precisar qué requiere estándar, recurso o rol; y qué requiere hábito, conversación, pérdida o aprendizaje.
-6. **Cerrar con una prueba pequeña.** Cada mesa define un experimento de dos semanas con responsable, evidencia y fecha de revisión.
+### Una secuencia acumulativa, no tres talleres aislados
 
-**Cuidado de facilitación:** evitar “cinco porqués” como búsqueda de una causa única. Usarlo, si acaso, para ampliar condiciones y luego contrastar con un mapa de actores, incentivos, flujos y barreras.
+| Sesión | Capacidad y trabajo sobre el mismo caso | Producto verificable |
+|---|---|---|
+| **2 · Diagnosticar y leer intereses** | Devolver la síntesis para confirmar, matizar y contradecir. Entregar datos parciales del caso; separar hechos e interpretaciones, distinguir lo técnico y lo adaptativo y mapear actores. Pedir evidencia antes de proponer. | Desafío compartido, hipótesis alternativas, ficha de diagnóstico y una observación de campo acordada. |
+| **3 · Hablar, discrepar y cerrar** | Añadir roles con intereses legítimos e información diferente. HSE, producción y otros actores deben conversar directamente y acordar una decisión bajo presión. Pausar, observar, dar retroalimentación y repetir. | Decisión o escalamiento explícito, responsables y criterio de cierre. Evaluación de conductas, no etiquetas personales. |
+| **4 · Transferir y comprobar** | Introducir consecuencias simuladas de las decisiones; revisar y ajustar. Contrastar lo aprendido con observaciones de campo. Diseñar una mejora del plan padrino o del circuito de lecciones, si se confirma su pertinencia. | Prueba acotada con responsable, evidencia esperada, fecha de revisión y criterio para mantener, ajustar o detener. |
 
-## Sesión 3 — Corresponsabilidad, conversaciones y seguridad psicológica
+**Caso sugerido, enteramente ficticio:** una obra debe cumplir un hito; llega personal nuevo de un subcontratista; el acompañamiento figura firmado, pero surge una duda sobre el aprendizaje de una tarea. Producción, HSE y quien acompaña deben decidir cómo verificarlo y organizar el trabajo. El caso combina temas registrados, pero no describe un accidente ni un episodio real de la empresa. No asignar de antemano un área culpable o una solución correcta.
 
-**Resultado esperado:** practicar conductas que permitan advertir riesgos, disentir y sostener responsabilidad cuando sube la tensión.
+### Ajustes de facilitación propuestos
 
-1. Presentar brevemente la diferencia entre seguridad psicológica, confianza excesiva y comodidad.
-2. Simular dos situaciones: detener una tarea insegura frente a presión de producción y elevar una mala noticia a una figura de autoridad.
-3. Observar quién habla, quién calla, cómo responde la autoridad y cuándo aparece culpa o defensa.
-4. Practicar tres conductas: invitar una voz ausente, formular una discrepancia basada en datos y responder productivamente a una alerta.
-5. Trabajar autoridad versus liderazgo a partir de las asociaciones “policía/cansón/regañón”, sin generalizarlas a toda la empresa.
-6. Revisar los experimentos de la sesión 2: qué ocurrió, qué se aprendió y qué debe ajustarse.
+- **Encuadrar y reconocer:** explicar qué capacidad se practica, por qué importa para SST y cómo continúa el proceso; reconocer avances sin cerrar la indagación.
+- **Ampliar la participación:** reflexión individual, parejas, grupos mixtos y plenaria; invitar voces menos presentes sin obligar a exposición personal.
+- **Pasar del tercero al interlocutor:** pedir conversaciones entre las contrapartes, no solo explicaciones al facilitador; observar qué cambia.
+- **Cerrar con transferencia:** cada ejercicio termina con qué aprendimos, dónde lo aplicaremos, con quién y cómo lo revisaremos. Repetir prácticas con retroalimentación.
 
-**Cuidado de facilitación:** elevar la temperatura con casos concretos, no con acusaciones generales; ofrecer vías anónimas y trabajo en pares antes de plenarios sensibles.
+### Qué comprobar y qué no prometer
 
-## Sesión 4 — Integración, compromisos y sistema de seguimiento
+**Aprendizaje en sesión:** distinguir hechos de inferencias, revisar una hipótesis y sostener un desacuerdo hasta acordar decisión o escalamiento. **Aplicación posterior:** observar uso de herramientas, comprensión demostrada, acuerdos ejecutados y respuesta a alertas. **Resultados SST:** revisar por separado accidentes, severidad y exposición durante un plazo suficiente. Mejorar en el taller no demuestra por sí mismo reducción de accidentalidad.
 
-**Resultado esperado:** convertir aprendizajes en pocas prácticas sostenibles, con coordinación y revisión posterior.
+No experimentar relajando controles críticos. Las pruebas se refieren a coordinación, aprendizaje y seguimiento dentro de los procedimientos de seguridad aplicables. Acordar quién continuará la revisión después de la cuarta sesión.
 
-1. Seleccionar dos o tres intervenciones con potencial transversal; no producir una lista extensa.
-2. Para cada una, definir: problema, evidencia base, componente técnico/adaptativo, actores, pérdida o resistencia esperable, experimento, indicador adelantado y criterio de ajuste.
-3. Acordar una rutina de coordinación producción–HSE–proyecto y un mecanismo para integrar subcontratistas.
-4. Diseñar un circuito mínimo de lecciones aprendidas que incluya comprobación de comprensión y observación de práctica.
-5. Incorporar revisiones específicas para inicio y cierre de obra, sujetas a validación de datos.
-6. Definir patrocinio y continuidad a 30, 60 y 90 días; sin este puente, las sesiones pueden repetir el patrón de talleres que no llegan a la práctica.
+## 9. Inventario exhaustivo de cobertura y trazabilidad
 
-## Salvaguardas para todo el proceso
+El inventario recorre el archivo aportado desde el encargo de brevedad hasta la última propuesta de devolución al grupo. Agrupa repeticiones y conserva detalles, contrapuntos y atribuciones ambiguas. La copia original permite recuperar el texto exacto; esta tabla es una guía de lectura, no su sustituto.
 
-- No usar la accidentalidad de corto plazo como única prueba de éxito del proceso.
-- No etiquetar personas, áreas, generaciones, proyectos o subcontratistas a partir de percepciones no contrastadas.
-- No confundir más reportes con peor desempeño sin analizar el clima de reporte y la calidad del cierre.
-- Mantener siempre separadas observaciones, interpretaciones, hipótesis y decisiones.
-- Revisar quién no está en la conversación: personal de campo, capa administrativa, subcontratistas, personas nuevas y voces con menor autoridad.
+**Control de cobertura:** 55 entradas cubren las 162 líneas con contenido del archivo, distribuidas hasta L218; las restantes son líneas en blanco. Se verificó que ninguna línea con contenido quedara sin entrada. Esta comprobación garantiza cobertura del archivo aportado, no la exhaustividad de lo que ocurrió en la jornada ni la verdad de todas las interpretaciones.
 
----
+### 9.1 Recorrido completo de la fuente
 
-# 9. Anexo: inventario de trazabilidad
+| ID · líneas originales | Procedencia | Contenido conservado y matices | Sección |
+|---|---|---|---|
+| R01 · [L1–7](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:1) | Encargo | Documento breve y consumible; resumen ejecutivo y nueve apartados; presentación de las memorias. | Guía |
+| R02 · [L9–21](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:9) | Contexto | Liderazgo sectorial, crecimiento y estándares reportados; accidentes y ventas habrían crecido en paralelo; 34 mandos medios de varias áreas; cuatro sesiones, primera centrada en observar; propósito SST; fecha y horario. | 1 |
+| R03 · [L23–27](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:23) | O/HU | 7:56: menos del 50 %; 8:05: aproximadamente 60 % había llegado, solo la mitad dentro y otros en café. Familiaridad parcial, aparente contacto no cotidiano. Desinterés/resistencia: apreciación del autor, que dice haber encontrado confirmación posterior. | 5 |
+| R04 · [L29](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:29) | E/P/HU | Cinco normas iniciales, petición de dos adicionales; se registran tres propuestas: orden/disciplina, tolerancia y comodidad en incomodidad, no resistencia al cambio. Broma sobre no tener reglas y risas; aceptación de las dos últimas. El autor vincula impulso normativo y saturación. | 5 |
+| R05 · [L31](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:31) | E/P/O/HU | Parejas rotativas: sueño actual, problema reciente de trabajo y qué harían si fueran 1.000 veces más valientes. Dicen conocerse poco, bloquearse con temas humanos y coincidir más de lo esperado. Soltura gradual; confianza como lectura del autor. | 5 |
+| R06 · [L33–35](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:33) | E/O/HU | Lluvia de desafíos en grupos de cinco: fluidez, participación y escucha. Capacidad para identificar problemas iniciales; dificultad de profundizar en causas confrontantes como lectura del autor. Socialización en orden de aparición. | 2, 5 |
+| R07 · [L37–38](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:37) | P | Programas culturales y de comportamientos inseguros sin descenso reportado de cifras; procedimientos que no llegan a la acción. | 3.1 |
+| R08 · [L39](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:39) | P | Planeación de producción y HSE sin coordinación suficiente. | 3.2 |
+| R09 · [L40–41](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:40) | P | Bajos estándares atribuidos a subcontratistas; accidentes investigados que se repetirían sin aprendizaje. | 3.3, 3.7 |
+| R10 · [L42](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:42) | P/HU | Política SST fuerte para operaciones, no para unas 200 personas administrativas. Posible lejanía del tema: pregunta del autor. | 3.7, 5 |
+| R11 · [L43–45](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:43) | P | Programas de comportamientos seguros intermitentes en ejecución e impacto; estrés poco visible; HSE insuficientemente incluido en todo el ciclo. | 3.2, 3.7 |
+| R12 · [L46–47](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:46) | P | Reiteración de cultura/comportamientos y rotación alta con pérdida de aprendizajes. | 3.3 |
+| R13 · [L48–50](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:48) | P/HU | SST y capacitaciones aplazadas frente a producción; mala conservación de experiencias; formaciones efectivas no estandarizadas. Reconocer errores sin asumirlos: interpretación del autor. | 3.1, 3.3, 3.5 |
+| R14 · [L51–53](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:51) | P | Estándares propios no alineados con subcontratistas; inicio/final de obra señalados como críticos; presión por indicadores y prioridad operativa. | 3.5, 3.7 |
+| R15 · [L54–55](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:54) | P/HU | Cultura del miedo en educación; muchos procedimientos y poco análisis fuera del papel. Recurrencia transversal del miedo: anotación del autor. | 3.1, 3.4 |
+| R16 · [L56–60](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:56) | P/HU | Resistencia al cambio, involucramiento desigual, exceso de confianza en habilidades y descuido, reiteración de rotación y responsabilidad puesta en otros. El autor distingue confianza propia de interpersonal. | 3.2, 3.4, 3.7 |
+| R17 · [L62–64](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:62) | O/E | Temperatura baja, escucha sin réplicas; explicación de trayectorias A–B y A–C con vueltas, y soluciones discretas —manual/dinero—. El 98 % queda registrado como cifra de facilitación sin fuente verificada. | 1, 5 |
+| R18 · [L66–68](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:66) | P/E/HU | Definiciones de liderazgo con responsabilidad, ejemplo, confianza e involucramiento; talleres sin transferencia cotidiana. Autoridad: policía, cansón, regañón; su vínculo con control normativo es interpretación del autor. | 3.3, 3.4, 5 |
+| R19 · [L70–72](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:70) | O/HU | Escucha sostenida; impresión de aburrimiento, lejanía o tarea adicional. Autocrítica a un encuadre poco explícito sobre motivo, cuatro sesiones y desarrollo de capacidades SST. | 5, 8 |
+| R20 · [L74–76](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:74) | E | Primera pecera con media sala sobre cultura/comportamientos; distinción observación–interpretación y advertencia sobre intervención prematura. Cifra 90 % sin sustento identificado. La consigna de quién observa a quién tiene redacción ambigua en el original. | 1, 5 |
+| R21 · [L77–78](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:77) | P/HU | Reconocimiento de falta de ejemplo propio; generaciones y formas de aprender distintas, necesidad de estrategias variadas. Autocrítica y posterior protección de imagen/ego/cumplimiento: hipótesis del autor. | 3.3, 5 |
+| R22 · [L79–81](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:79) | P/HU | Cambio cultural lento; autocuidado y cuidado de otros ante riesgo. El autor reconoce continuidad necesaria y contempla que la dificultad sirva para alejar responsabilidad. | 5 |
+| R23 · [L83–87](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:83) | P-observación/HU | Observadores participantes: atención, nadie monopoliza, orden, movimientos de brazos/piernas, diversidad de edades, iniciativa de más experimentados y relato personal; cumplimiento porque toca. Nerviosismo: interpretación tentativa. | 5 |
+| R24 · [L88–90](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:88) | O/HU/E/P | Observaciones físicas de género, manos, pies y voz; valoración del autor de la capacidad de observar. Complejidad de movilizar personas; selección de casi todos los problemas al distinguir procedimientos/personas. Propuesta original de cinco porqués. | 5, 7 |
+| R25 · [L92–95](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:92) | P/HU | Traslado a ciertos proyectos percibido como castigo y mala presentación interna del proyecto; extensión a otros asuntos es tentativa del registro. | 3.7 |
+| R26 · [L97–99](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:97) | O/HU/E | Cautela: yo creo/es mi percepción. Anticipación de conflicto y falta de corresponsabilidad como lectura del autor; señala reconocimiento posterior del grupo. Preguntas sobre por qué no pasan a la acción y qué pueden movilizar desde sus roles; cultura y comportamientos como influencia mutua. | 4, 5 |
+| R27 · [L101–109](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:101) | O/HU | Receso: valoración de observación y responsabilidad inicial; cortesía sin exposición, sospecha de saturación normativa y posibles brechas generacionales. | 5 |
+| R28 · [L110–112](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:110) | HU | Duda entre abundancia documental y falta de estándares corporativos, variantes por producto, diseño/socialización/seguimiento; percepción negativa de autoridad y miedos no admitidos. | 4, 5 |
+| R29 · [L114–118](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:114) | E | Recapitulación, explicación del balcón, intercambio de roles y segunda pecera sobre aprendizajes/lecciones para seguridad. | 1, 7 |
+| R30 · [L120–123](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:120) | O/P | Inicio cauto, voz aumenta; decisiones en caliente; difusión sin asegurar recepción/comprensión/interiorización; cumplimiento sin comprobar aprendizaje. | 3.1, 3.3 |
+| R31 · [L124–126](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:124) | O/HU/P | Réplica y externalización leída por el autor; vuelve responsabilidad al hablar de canales. Presión de cumplimiento y números frente a personas; registro mixto. | 3.3, 3.5, 5 |
+| R32 · [L127–129](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:127) | O/P | Conversación concentrada, sin invitar a todos; personas no hablaron en toda la sesión. Tanto por hacer que se desplaza SST; propuestas sin siguiente paso y cambios por proyecto, no globales. | 3.2, 3.5, 3.6, 5 |
+| R33 · [L130–132](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:130) | P/O/HU | Participantes reivindican avances. Autor: posible defensa y secuencia autocrítica–externalización–defensa–molestia–freno–bloqueo; propone reconocer logros y preguntar siguiente acción. Silencio prolongado y voz alta al hablar de saturación. | 4, 5 |
+| R34 · [L134–138](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:134) | P-observación/HU | Observadores: más voces, fluidez e involucramiento, culpa desplazada hacia procesos; autor pregunta su significado. | 5 |
+| R35 · [L140–144](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:140) | E/HU | Facilitación devuelve exceso de interpretación/propuesta y poco diagnóstico, introduce desequilibrio productivo y pregunta qué falta decir. Tercera pecera con todos; autor insiste en herramienta de profundización. | 1, 5, 7 |
+| R36 · [L146–148](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:146) | P/HU | Áreas independientes, cada una saca lo propio, roces sin resolver y prioridades no alineadas; huida ante conflicto es lectura del autor. | 3.2, 3.4 |
+| R37 · [L149–150](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:149) | P | Reactividad, apagar incendios, continuidad por costumbre/zona de confort y falta de iniciativa preventiva. | 3.5 |
+| R38 · [L151–154](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:151) | O/P | Autor observa asentimiento general y explicaciones al facilitador más que entre pares. Participantes: discurso de cuidado/equipo que no pasa a práctica y abundancia de quejas. | 3.1, 5 |
+| R39 · [L155](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:155) | P | Falta de objetivo conjunto interiorizado; construir bien sostiene a empresa y trabajadores; HSE debe entenderse como contribución al mismo propósito. | 3.2 |
+| R40 · [L156–157](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:156) | P/O | Una persona propone soltar lo que antes funcionó; no se registra opinión del resto. Otra reivindica camaradería perdida ante predominio de procesos. | 3.7, 4 |
+| R41 · [L158–161](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:158) | P/registro mixto | Reconocimiento sin aporte de acción; yo cumplí sin comprobar resultado; correos, WhatsApp y grupos vuelven paisaje la información; unión de varias culturas poco considerada. | 3.1, 3.3, 3.6, 3.7 |
+| R42 · [L162](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:162) | P/HU; atribución parcial | Herramientas de capacitación no enseñadas a equipos. Se plantean miedo a empoderarse/exponerse, perder trabajo al enseñar y ser juzgado al cambiar. La redacción mezcla voces: no permite atribuir cada explicación con certeza a un participante. | 3.3, 5 |
+| R43 · [L163–166](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:163) | P | Costos de seguridad, rentabilidad, venta, cumplimiento y optimización; procedimientos en papel. Plan padrino asignado/firmado sin asegurar aprendizajes; reacción explicativa tras accidente y cumplimiento sin responsabilidad. | 3.1, 3.5 |
+| R44 · [L168–171](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:168) | E/P/HU | Pausa sobre qué pasa. Participantes: se juzgan con dureza, empresa dispone recursos y posee estándares/documentación excepcionales. El autor interpreta protección; conserva el valor de los avances. | 3.5, 4, 5 |
+| R45 · [L172–174](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:172) | P/O/HU | Mejoras de HSE y costos altos; presión de mercado posterga temas. Integralidad de ingenieros e interiorización reivindicadas; desconexión producción–HSE reconocida desde ambos lados, apoyo/responsabilidad. Autor observa aumento de tensión y mensajes al facilitador, no al otro. | 3.2, 4, 5 |
+| R46 · [L175–177](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:175) | P/HU | Formación hecha y cambios lentos; avances/empatía con proceso y consigo mismos; falta salir a operación. Autor lee defensa y también posible cansancio genuino frente a más de lo mismo. | 3.3, 5, 8 |
+| R47 · [L179–182](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:179) | E/P/HU | Nueva pausa: participantes dicen que asuntos quedan arriba y no entran problemas diarios. Autor pregunta qué esperan facilitación/cliente y cuál es el objetivo pedagógico. | 5, 8 |
+| R48 · [L184–187](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:184) | E/P-proyección | Ante qué dirían sus equipos, los gerentes anticipan inutilidad de hablar y miedo a despido/castigo. Son proyecciones, sin voz directa de esos equipos. | 3.4 |
+| R49 · [L189–191](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:189) | E/P/HU | Pirámide de Lencioni: confianza, conflicto, compromiso, responsabilidad, resultado. Autor percibe confirmaciones. Participantes: evitan conflicto y temen transparencia ante ego del jefe, con exclusión del llavero. | 3.4, 7 |
+| R50 · [L192–193](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:192) | P | Reproche al resultado/indicador, culpables en vez de condiciones o causas, e ideas no ejecutadas por miedo. | 3.4 |
+| R51 · [L194–197](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:194) | P/E | Conflicto sí abierto pero improductivo y sin cierre, tener razón y guerras de poder. Facilitación propone orquestarlo; participantes contrastan culpa ajena con asumir lo hecho/no hecho. | 3.4, 7 |
+| R52 · [L198–199](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:198) | P/E | Conversaciones productivas dentro de equipos, menos entre equipos. Una participante niega miedo y reivindica dureza para confrontar. Facilitación recoge todas las posiciones como información, sin bien/mal. | 3.2, 3.4, 4 |
+| R53 · [L201–203](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:201) | E/P | Dibujo final de temperatura: según bitácora, todos valoran baja la tercera pecera, con intentos de elevación; aun así, mayor que en el día a día. | 4, 5 |
+| R54 · [L205–210](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:205) | HU/propuesta original | Autor ve indicios reiterados y diagnóstico inicial logrado; pregunta cómo aprovechar mucho ruido. Objetivo: herramientas específicas aplicadas a seguridad, no resolver todo; ordenar diagnóstico, profundizar sostenedores adaptativos y simular caso cercano. | 5, 8 |
+| R55 · [L212–218](C:/Users/gdave/Documents/Codex/2026-10-15/referenced-chatgpt-conversation-this-is-an/outputs/bitacora-original-soletanche-sesion-1.txt:212) | Propuesta original | Facciones, lealtades y miedos; seguridad psicológica; orquestar conflicto y manejar crítica; caso ficticio basado en realidad; herramientas ligadas a problemas; devolver diagnóstico ordenado al grupo sin exigir que lo retenga de memoria. | 7, 8 |
 
-El inventario conserva contenidos centrales y particularidades del tramo recuperado. Está pendiente de cotejo con la bitácora íntegra y no debe presentarse como exhaustivo. “Repetición” es una apreciación cualitativa sobre ese tramo, no un conteo de participantes ni una medida de importancia causal.
+### 9.2 Qué falta contrastar fuera de la bitácora
 
-## 9.1 Contexto, secuencia y dinámica
+- Datos de accidentes, severidad y exposición, con definiciones comparables, por proyecto, fase, tarea y vínculo laboral.
+- Recorrido de una lección y un acompañamiento: recepción, comprensión, aplicación y verificación.
+- Casos de decisiones sobre prioridades/costos y de resolución o escalamiento entre HSE y producción.
+- Voz directa de equipos, personal administrativo y subcontratistas; experiencias diversas frente a autoridad y conflicto.
+- Prácticas y proyectos donde sí funciona la coordinación, para contrastar explicaciones generales.
+- Expectativas del cliente, resultados pedagógicos, margen de decisión y continuidad después de la cuarta sesión.
 
-| ID | Fuente | Repetición | Registro trazable |
-|---|---|---:|---|
-| T01 | Contexto | Puntual | Empresa presentada como líder, en crecimiento y con estándares altos de calidad y seguridad. |
-| T02 | Contexto | Puntual | Primera de cuatro sesiones; objetivo de capacidades para seguridad, no un entrenamiento convencional de liderazgo. |
-| T03 | Contexto | Puntual | 34 gerentes medios de producción, Gestión Humana, HSE, áreas técnicas y otras. |
-| T04 | Contexto | Puntual | Sesión 1 centrada en observar dentro de observar–interpretar–intervenir. |
-| T05 | Contexto | Puntual | Crecimiento reportado de accidentes y ventas en números casi paralelos; relación no verificada. |
-| T06 | O | Puntual | 7:56: menos del 50 % había llegado. 8:05: cerca del 60 % había llegado; aproximadamente la mitad estaba dentro y el resto en café. |
-| T07 | O/HU | Puntual | Interacción inicial y conocimiento parcial; apreciación de poco interés o resistencia. |
-| T08 | P/O/HU | Media | Normas propuestas: orden y disciplina; broma sobre no tener reglas; tolerancia/comodidad en la incomodidad; no resistencia al cambio. Posible impulso normativo y saturación. |
-| T09 | P/O | Puntual | En *speed dating*: no se conocen en profundidad; hablar de asuntos humanos bloquea; descubren coincidencias; se sueltan gradualmente. |
-| T10 | O/HU | Media | Facilidad para identificar problemas iniciales; dificultad hipotética para llegar a causas raíz confrontantes. |
-| T11 | O | Media | En grupos pequeños hubo conversación, participación y escucha. |
-| T12 | O | Media | Temperatura baja y sin réplicas al socializar problemas; más tarde aumentó el tono, pero se frenó la tensión. |
-| T13 | E | Puntual | Encuadre de trayectorias no lineales A–B–C y soluciones discretas; cifras 98 % y 90 % tratadas como recursos de facilitación, no evidencia verificada. |
-| T14 | P/O | Media | Definiciones conceptuales sólidas de liderazgo: responsabilidad, ejemplo, confianza e involucramiento. Talleres previos con baja transferencia a la vida real. |
-| T15 | P/HU | Puntual | Autoridad asociada con “policía”, “cansón” y “regañón”; posible relación con cultura de control. |
-| T16 | HU | Puntual | Faltó encuadre inicial más claro sobre propósito, trayectoria de cuatro sesiones y diferencia frente a otro taller. |
-| T17 | O | Media | Primera pecera: atención, orden, nadie monopolizó; observaciones principalmente físicas y esfuerzo por no interpretar. |
-| T18 | O/HU | Media | Buena capacidad de observar y darse cuenta como activo del grupo. |
-| T19 | O | Media | Iniciativa más frecuente de personas con experiencia/antigüedad; conversación desde experiencia personal. |
-| T20 | O | Alta | Cautela al hablar, baja exposición y conflicto, fórmulas como “yo creo/es mi percepción”. |
-| T21 | O | Alta | Participación desigual; algunas personas no hablaron durante toda la sesión y no fueron invitadas espontáneamente. |
-| T22 | O | Puntual | Segunda pecera: voces inicialmente bajas, mayor participación y flujo, una réplica, un silencio prolongado y tono alto al hablar de saturación informativa. |
-
-## 9.2 Problemas y percepciones expresadas
-
-| ID | Fuente | Repetición | Registro trazable |
-|---|---|---:|---|
-| T23 | P | Alta | Cultura y comportamientos de seguridad; programas previos sin reducción percibida de cifras. |
-| T24 | P | Alta | Procedimientos que permanecen en documentos y no bajan a la acción. |
-| T25 | P | Alta | Muchos procedimientos y poco análisis de situaciones fuera del papel. |
-| T26 | P | Media | Falta de estandarización de formaciones efectivas; variación entre iniciativas. |
-| T27 | P | Media | Programas de comportamientos seguros intermitentes en aplicación e impacto. |
-| T28 | P | Alta | Cumplimiento porque toca, no por conciencia de propósito e impacto. |
-| T29 | P | Alta | Presión por indicadores y prioridad de operación sobre SST; aplazamiento de capacitaciones. |
-| T30 | P | Alta | “Tenemos tanto por hacer… que dejamos de lado lo prioritario”; números percibidos como más relevantes que personas. |
-| T31 | P | Alta | Falta de coordinación entre planeación de producción y HSE. |
-| T32 | P | Media–alta | HSE debería estar mejor integrado en todo el ciclo del proceso. |
-| T33 | P | Media | Silos: cambios por proyecto y no a nivel global; involucramiento desigual. |
-| T34 | P | Alta | Accidentes investigados que, según el grupo, vuelven a suceder. |
-| T35 | P | Alta | Lecciones enviadas/publicadas sin asegurar cobertura, recepción, comprensión o interiorización. |
-| T36 | P | Alta | Mala gestión de experiencias para que los aprendizajes perduren. |
-| T37 | P | Media | Rotación alta asociada con pérdida de aprendizajes. |
-| T38 | P | Media | Demasiada información y múltiples canales compiten por la atención. |
-| T39 | P | Puntual | Decisiones tomadas “en caliente”. |
-| T40 | P | Media | Subcontratistas percibidos con estándares bajos y cultura distinta; falta de alineación. |
-| T41 | P | Puntual | Inicio y final de obra señalados como momentos críticos de mayor accidentalidad. |
-| T42 | P | Puntual | Política fuerte de SST en operaciones y menor alcance percibido en una capa administrativa de alrededor de 200 personas. |
-| T43 | P | Puntual | Estrés como factor “silencioso” al que se da poca relevancia. |
-| T44 | P | Media–alta | Cultura del miedo; tema recurrente en diferentes ejes. |
-| T45 | P | Media | Resistencia y rechazo al cambio. |
-| T46 | P | Puntual | Exceso de confianza en habilidades propias asociado con actuación descuidada. |
-| T47 | P | Alta | Falta de responsabilidad compartida; tendencia a dejar el problema en otros. |
-| T48 | P | Media | Cuidado propio y de otros como responsabilidad de todos; advertir cuando alguien está en riesgo. |
-| T49 | P | Puntual | Diferencias generacionales y de formas de aprender; necesidad de estrategias diversas. |
-| T50 | P | Puntual | La cultura toma tiempo y requiere esfuerzos constantes. |
-| T51 | P | Puntual | Traslado a ciertos proyectos percibido como castigo. |
-| T52 | P/HU | Puntual | Posible “mala venta” interna del proyecto y de otros asuntos que no se saben presentar. |
-
-## 9.3 Patrones interpretativos originales y preguntas abiertas
-
-| ID | Fuente | Repetición | Registro trazable |
-|---|---|---:|---|
-| T53 | HU | Alta | Capacidad de autocrítica y reconocimiento inicial de responsabilidad. |
-| T54 | O/HU | Alta | Al subir la temperatura, movimiento hacia externalización, culpa o excusas y pérdida de productividad. |
-| T55 | HU | Media | Imagen, ego o presión por cumplir podrían desplazar el locus de control hacia afuera. |
-| T56 | HU | Media | Defender avances puede ser un mecanismo de protección; los avances no se niegan y pueden ser punto de apoyo. |
-| T57 | O/HU | Media | Tras autocrítica y defensa aparece dificultad o bloqueo para definir qué hacer de manera distinta. |
-| T58 | HU | Puntual | Decir que la cultura toma tiempo puede ser realista y, a la vez, diluir la responsabilidad presente. |
-| T59 | HU | Puntual | Posible distancia del tema de seguridad para la capa administrativa. |
-| T60 | HU | Media | Sobrecarga normativa como posible razón para resistir nuevas reglas. |
-| T61 | O/HU | Puntual | Culpa llevada más a procesos que a personas; significado todavía abierto. |
-| T62 | E/HU | Media | Necesidad de observar y diagnosticar la causa detrás de la causa antes de intervenir; interés en herramientas de profundización. |
-| T63 | E | Puntual | Pregunta por cuáles problemas se resuelven con procedimientos y cuáles exigen movilizar personas; el grupo seleccionó casi todos como relacionados con personas. |
-| T64 | E | Media | Cultura y comportamiento presentados como ciclo de influencia mutua. |
-| T65 | O | Puntual | Movimiento de brazos y piernas observado en la pecera, interpretado tentativamente como posible nerviosismo. |
-
-## 9.4 Vacíos de evidencia para la siguiente fase
-
-1. Datos de accidentalidad desagregados por proyecto, fase de obra, tipo de tarea, exposición, antigüedad, vínculo laboral y subcontratista.
-2. Evidencia de repetición de eventos y de la calidad/efectividad de las acciones correctivas.
-3. Recorrido real de uno o dos procedimientos críticos, desde diseño hasta uso en campo.
-4. Mapa de canales, audiencias y verificación de lecciones aprendidas.
-5. Indicadores, incentivos y decisiones donde producción y SST entren en tensión.
-6. Roles y momentos de participación de HSE dentro de la planeación y ejecución.
-7. Experiencias de personal de campo, administrativo, recién vinculado y de subcontratistas.
-8. Condiciones bajo las cuales una persona puede plantear una duda, reportar un casi incidente o detener una tarea.
-9. Prácticas que ya funcionan y excepciones positivas que contradigan o afinen el diagnóstico.
-
----
-
-## Cierre
-
-La sesión 1 produjo más que una lista de problemas: dejó ver cómo el sistema conversa sobre ellos. El activo principal es que el grupo puede observar, reconocer fallas y manejar conceptos de liderazgo. El desafío es sostener esa mirada cuando aumenta la incomodidad, incluir las voces ausentes y convertir aprendizajes en cambios verificables. Las siguientes sesiones deberían profundizar y probar, no ampliar indefinidamente el inventario ni prometer explicaciones causales que la evidencia actual no permite.
+Estos vacíos son propuestas de validación, no omisiones del registro documental. El diagnóstico puede actualizarse indicando para cada hipótesis: evidencia nueva, confirmación provisional, matiz o refutación.
